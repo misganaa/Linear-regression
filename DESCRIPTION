@@ -1,0 +1,9 @@
+Package: LR_addis
+Type: Package
+Title: Simple linear regression and plotting the result
+Version: 1.0
+Date: 2015-06-07
+Author: Misganaw Berhanu Addis
+Maintainer: Any suggestion?, you can reach me misgber at gmail.com
+Description: More about what it does (maybe more than one line)
+License: What license is it under?
