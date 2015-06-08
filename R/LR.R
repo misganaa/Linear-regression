@@ -1,4 +1,4 @@
-# A PACKAGE THAT T A LINEAR REGRESSION
+# A PACKAGE FOR LINEAR REGRESSION
 LR<-function(x,y)
 {
   sum_x<-sum(x)
